@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://synympo.github.io/sitemap.html.gz
+Sitemap: https://synympo.github.io/app/sitemap.html.gz
+Sitemap: https://synympo.github.io/assets/sitemap.html.gz
+Sitemap: https://synympo.github.io/css/sitemap.html.gz
+Sitemap: https://synympo.github.io/includes/sitemap.html.gz
+Sitemap: https://synympo.github.io/item/sitemap.html.gz
+Sitemap: https://synympo.github.io/src/sitemap.html.gz
